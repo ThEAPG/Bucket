@@ -1,5 +1,5 @@
 {
   "Plugins": [
-		""
+		"https://raw.githubusercontent.com/ThEAPG/Bucket/refs/heads/ToolBox/Plugins/TableConstructor/plugin-info.json"
 	]
 }
