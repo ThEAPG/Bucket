@@ -1,5 +1,9 @@
-{
-  "Plugins": [
-		"https://raw.githubusercontent.com/ThEAPG/Bucket/refs/heads/ToolBox/Plugins/TableConstructor/plugin-info.json"
-	]
-}
+[
+	{
+		"Name": "Конструктор таблиц",
+		"Description": "Набор инструментов предназначенный для создания таблиц для проектов устройств.",
+		"PackageUrl": "https://github.com/ThEAPG/Bucket/raw/refs/heads/ToolBox/Plugins/TableConstructor/TableConstructor.dll",
+		"PackageFileName": "TableConstructor.dll",
+		"Version": "2.0.0.0"
+	}
+]
