@@ -2,6 +2,7 @@
 	{
 		"Name": "Конструктор таблиц",
 		"Description": "Набор инструментов предназначенный для создания таблиц для проектов устройств.",
+		"IconUrl": "",
 		"PackageUrl": "https://github.com/ThEAPG/Bucket/raw/refs/heads/ToolBox/Plugins/TableConstructor/TableConstructor.dll",
 		"PackageFileName": "TableConstructor.dll",
 		"WhatsNew": [
