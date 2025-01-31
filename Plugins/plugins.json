@@ -22,7 +22,7 @@
 		"Version": "2.0.0.0"
 	},
 	{
-		"Name": "Конструктор таблиц",
+		"Name": "Конструктор таблиц 3.0",
 		"Description": "Набор инструментов предназначенный для создания таблиц для проектов устройств.",
 		"IconUrl": "",
 		"PackageUrl": "https://github.com/ThEAPG/Bucket/raw/refs/heads/ToolBox/Plugins/TableConstructor/TableConstructor.dll",
