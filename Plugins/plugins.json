@@ -20,18 +20,5 @@
 			"Тестовое приложение проектов"
 		],
 		"Version": "2.0.0.0"
-	},
-	{
-		"Name": "Конструктор таблиц",
-		"Description": "Набор инструментов предназначенный для создания таблиц для проектов устройств.",
-		"IconUrl": "",
-		"PackageUrl": "https://github.com/ThEAPG/Bucket/raw/refs/heads/ToolBox/Plugins/TableConstructor/TableConstructor.dll",
-		"PackageFileName": "TableConstructor.dll",
-		"WhatsNew": [
-			"Новое супрское тестовое приложение",
-			"Какой-то текст",
-			"Здесь могла быть ваша реклама",
-		],
-		"Version": "3.0.0.0"
 	}
 ]
