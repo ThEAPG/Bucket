@@ -1,7 +1,8 @@
 [
 	{
 		"Name": "Конструктор таблиц",
-		"Description": "Набор инструментов предназначенный для создания таблиц для проектов устройств.",
+		"Description": "Набор инструментов предназначенный для создания таблиц для пользовательского проекта, а также для отдельного создания таблиц устройств.",
+		"Guid": "66458a8c-e8c0-400b-b0f9-1fb467ef8e0a",
 		"IconUrl": "",
 		"PackageUrl": "https://github.com/ThEAPG/Bucket/raw/refs/heads/ToolBox/Plugins/TableConstructor/TableConstructor.dll",
 		"PackageFileName": "TableConstructor.dll",
