@@ -3,7 +3,7 @@
 		"Name": "Конструктор таблиц",
 		"Description": "Набор инструментов предназначенный для создания таблиц параметров устройств и формирования пользовательских таблиц на их основе, поддерживающий гибкую настроку конфигурации проектов для создания таблиц.",
 		"Guid": "66458a8c-e8c0-400b-b0f9-1fb467ef8e0a",
-		"IconUrl": "https://github.com/ThEAPG/Bucket/raw/refs/heads/ToolBox/Plugins/TableConstructor/TableConstructor.png",
+		"IconUrl": "https://github.com/ThEAPG/Bucket/raw/refs/heads/ToolBox/Plugins/TableConstructor/icon.png",
 		"PackageUrl": "https://github.com/ThEAPG/Bucket/raw/refs/heads/ToolBox/Plugins/TableConstructor/TableConstructor.dll",
 		"PackageFileName": "TableConstructor.dll",
 		"WhatsNew": [
