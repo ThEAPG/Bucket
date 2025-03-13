@@ -7,8 +7,10 @@
 		"PackageUrl": "https://github.com/ThEAPG/Bucket/raw/refs/heads/ToolBox/Plugins/TableConstructor/TableConstructor.dll",
 		"PackageFileName": "TableConstructor.dll",
 		"WhatsNew": [
-			"Добавлен конфигуратор проектов"
+			"Инструментарий для конфигурации проектов",
+			"Возможность создания таблиц устройств",
+			"Возможность создания таблиц пользовательского проекта"
 		],
-		"Version": "2.0.0.0"
+		"Version": "2.0.0.1"
 	}
 ]
