@@ -1,24 +1,30 @@
 [
 	{
 		"Name": "Конструктор таблиц",
-		"Description": "Набор инструментов предназначенный для создания таблиц для проектов устройств.",
-		"IconUrl": "",
+		"Description": "Набор инструментов предназначенный для создания таблиц параметров устройств и формирования пользовательских таблиц на их основе, поддерживающий гибкую настроку конфигурации проектов для создания таблиц.",
+		"Guid": "66458a8c-e8c0-400b-b0f9-1fb467ef8e0a",
+		"IconUrl": "https://github.com/ThEAPG/Bucket/raw/refs/heads/ToolBox/Plugins/TableConstructor/icon.svg",
 		"PackageUrl": "https://github.com/ThEAPG/Bucket/raw/refs/heads/ToolBox/Plugins/TableConstructor/TableConstructor.dll",
 		"PackageFileName": "TableConstructor.dll",
 		"WhatsNew": [
-			"Добавлен конфигуратор проектов"
+			"Инструментарий для конфигурации проектов",
+			"Возможность создания таблиц устройств",
+			"Возможность создания таблиц пользовательского проекта"
 		],
-		"Version": "2.0.0.0"
+		"Version": "2.0.0.3"
 	},
 	{
 		"Name": "Тестовое приложение",
-		"Description": "Набор инструментов предназначенный для создания таблиц для проектов устройств.",
-		"IconUrl": "",
+		"Description": "Набор инструментов предназначенный для создания таблиц параметров устройств и формирования пользовательских таблиц на их основе, поддерживающий гибкую настроку конфигурации проектов для создания таблиц.",
+		"Guid": "66458a8c-e8c0-400b-b0f9-1fb467as515",
+		"IconUrl": "https://github.com/ThEAPG/Bucket/raw/refs/heads/ToolBox/Plugins/TableConstructor/icon.svg",
 		"PackageUrl": "https://github.com/ThEAPG/Bucket/raw/refs/heads/ToolBox/Plugins/TableConstructor/TableConstructor.dll",
 		"PackageFileName": "TableConstructor.dll",
 		"WhatsNew": [
-			"Тестовое приложение проектов"
+			"Инструментарий для конфигурации проектов",
+			"Возможность создания таблиц устройств",
+			"Возможность создания таблиц пользовательского проекта"
 		],
-		"Version": "2.0.0.0"
+		"Version": "2.0.0.2"
 	}
 ]
